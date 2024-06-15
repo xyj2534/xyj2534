@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @xyj2534,yolo,a college students
-- 👀 I’m interested in beatbox,TKD,code
-- 🌱 I’m currently learning java,python,somothing else
+- 👋 Hi, I’m @xyj2534,yolo,a AI SFT worker
+- 👀 I’m interested in beatbox,music,ai,llm
 - 📫 How to reach me :2534856393@qq.com
 
 <!---
